@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+var argv = require('minimist')(process.argv.slice(2));
+var dimmer = require('../');
+
+if (argv._[0] === 'up') {
+	dimmer(true);
+} else if (argv._[0] === 'down') {
+	dimmer(false);
+}

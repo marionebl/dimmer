@@ -1,0 +1,20 @@
+{
+  "name": "dimmer",
+  "version": "0.0.1",
+  "description": "CLI tool for fast switching of light vs dark themes in terminal, sublime and Mac OS",
+  "main": "lib/index.js",
+  "bin": "bin/dimmer",
+  "keywords": [
+    "tool",
+    "cli",
+    "themes"
+  ],
+  "author": "Mario Nebl <hello@mario-nebl.de>",
+  "license": "MIT",
+  "dependencies": {
+    "include-all": "^0.1.6",
+    "minimist": "^1.1.0",
+    "node-osascript": "^1.0.0",
+    "shelljs": "^0.3.0"
+  }
+}
