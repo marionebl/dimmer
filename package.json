@@ -16,5 +16,9 @@
     "minimist": "^1.1.0",
     "node-osascript": "^1.0.0",
     "shelljs": "^0.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/marionebl/dimmer.git"
   }
 }
