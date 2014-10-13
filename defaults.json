@@ -1,0 +1,18 @@
+{
+	"sublime": {
+		"enabled": true,
+		"settingsPath": "Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"schemesEnabled": true,
+		"schemeDark": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+		"schemeLight": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme",
+		"themesEnabled": true,
+		"themeDark": "Spacegray.sublime-theme",
+		"themeLight": "Spacegray Light.sublime-theme"
+	},
+	"terminal": {
+		"enabled": true,
+		"schemesEnabled": true,
+		"schemeDark": "dark",
+		"schemeLight": "light"
+	}
+}

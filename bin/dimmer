@@ -6,4 +6,6 @@ if (argv._[0] === 'up') {
 	dimmer(true);
 } else if (argv._[0] === 'down') {
 	dimmer(false);
+} else {
+	dimmer();
 }

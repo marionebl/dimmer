@@ -15,7 +15,9 @@
     "include-all": "^0.1.6",
     "minimist": "^1.1.0",
     "node-osascript": "^1.0.0",
-    "shelljs": "^0.3.0"
+    "rc": "^0.5.1",
+    "shelljs": "^0.3.0",
+    "util-extend": "^1.0.1"
   },
   "repository": {
     "type": "git",
