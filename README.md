@@ -1,7 +1,7 @@
 dimmer
 ======
 
-Simple dark/light theme switcher for Terminal, Sublime and Finder on Mac OS.
+Simple dark/light theme switcher.
 
 ### Installation
 * `npm install -g marionebl/dimmer`
