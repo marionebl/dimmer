@@ -1,6 +1,6 @@
 {
   "name": "dimmer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CLI tool for fast switching of light vs dark themes in terminal, sublime and Mac OS",
   "main": "lib/index.js",
   "bin": "bin/dimmer",
