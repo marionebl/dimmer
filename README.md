@@ -13,6 +13,19 @@ Simple dark/light theme switcher.
 
 ### Configuration
 * See some detailed documentation here, soon.
+* For each command:
+
+```js
+{
+  "sublime": {
+    "enabled": true, // if the command should be executed
+    "schemesEnabled": true, // if scheme toggleing should be executed
+		"schemeDark": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+		"schemeLight": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme"
+  }
+}
+```
+
 * Put stuff into `~/.dimmerrc/config` and `~/.dimmerrc/commands`. See [default.json][1] and [lib/commands][2] for reference.
 
 [1]: https://github.com/marionebl/dimmer/blob/master/defaults.json
