@@ -20,8 +20,11 @@ Simple dark/light theme switcher.
   "sublime": {
     "enabled": true, // if the command should be executed
     "schemesEnabled": true, // if scheme toggleing should be executed
-		"schemeDark": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
-		"schemeLight": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme"
+    "schemeDark": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+    "schemeLight": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme",
+    "themesEnabled": true, // if theme toggleing should be executed
+    "themeDark": "Spacegray.sublime-theme",
+    "themeLight": "Spacegray Light.sublime-theme"
   }
 }
 ```
