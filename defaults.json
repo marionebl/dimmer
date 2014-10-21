@@ -14,5 +14,8 @@
 		"schemesEnabled": true,
 		"schemeDark": "dark",
 		"schemeLight": "light"
+	},
+	"osx": {
+		"enabled": true
 	}
 }
